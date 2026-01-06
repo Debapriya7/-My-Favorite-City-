@@ -9,10 +9,11 @@ body {
 a {
   text-decoration: none;
   color: aliceblue;
+
 }
 
 nav {
-  background-color: #87ce1d;
+  background-color: #e597ea;
   padding: 10px;
   position: sticky;
   top: 0;
