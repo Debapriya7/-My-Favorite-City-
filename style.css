@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #d8bbbb;
-  color: aliceblue;
+  color: rgb(188, 214, 237);
   background-image: url("kolkata.png");
 }
 a {
